@@ -1,0 +1,11 @@
+date,emotion,score,confidence,text
+2026-02-28 22:07,sadness,-2.0,,
+2026-02-28 22:41,fear,-1.0,,
+2026-02-28 22:42,fear,-1.0,,
+2026-02-28 22:49,joy,2.0,,
+2026-02-28 23:05,surprise,1.0,0.779,Hello I feel overwhelmed today. It was hectic and tiresome. Still I managed to do all the work assigned to me . 
+2026-02-28 23:14,joy,2.0,0.987,Hello I feel great today 
+2026-02-28 23:21,joy,2.0,0.993,I feel great
+2026-02-28 23:27,fear,-1.0,0.988,I think ppl dont understand me the way I want them to understand me. I feel anxious and lonely 
+2026-02-28 23:32,sadness,,0.986,I feel sad
+2026-02-28 23:36,neutral,,0.938,Hello
