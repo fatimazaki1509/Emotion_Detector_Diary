@@ -14,7 +14,7 @@ This application allows users to write daily reflections and receive AI-driven e
 
 ## 🌿 Live Demo
 
-🔗 [https://your-streamlit-link-here.streamlit.app](https://emotiondetectordiary-tehciqzmkc7ns4k8ra4fw7.streamlit.app/)  
+🔗 https://emotiondetectordiary-tehciqzmkc7ns4k8ra4fw7.streamlit.app/
 
 
 ---
